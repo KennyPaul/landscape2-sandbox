@@ -2,29 +2,29 @@
 #
 # This file contains the data that will be used to generate the landscape.
 #
-# Reference documentation: https://github.com/cncf/landscape2/blob/main/docs/config/data.yml
+# Reference documentation: https://github.com/KennyPaul/landscape2-sandbox/blob/main/docs/config/data.yml
 
 categories:
-  - name: Category 1
+  - name: Contributing Companies
     subcategories:
       - name: Subcategory 1-1
         items:
-          - name: Participating Companies
+          - name: Contributing Companies
             crunchbase: https://www.crunchbase.com/organization/tazama-project
-            description: This is the description of item 1
+            description: Companies in this catagory have participated in the Tazama 2.0.0 Release
             homepage_url: https://tazama.org
-            logo: left-logo.svg
+            logo: Contributors.svg
             project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            repo_url: https://github.com/KennyPaul/landscape2-sandbox
+            twitter: https://twitter.com/TazamaOrg
           - name: Item 2
             crunchbase: https://www.crunchbase.com/organization/tazama-project
             description: This is the description of item 2
             homepage_url: https://tazama.org
             logo: cncf.svg
             project: sandbox
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            repo_url: https://github.com/KennyPaul/landscape2-sandbox
+            twitter: https://twitter.com/TazamaOrg
           - name: Item 3
             description: This is the description of item 3
             homepage_url: https://tazama.org
@@ -36,15 +36,15 @@ categories:
             description: This is the description of item 4
             homepage_url: https://tazama.org
             logo: cncf.svg
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            repo_url: https://github.com/KennyPaul/landscape2-sandbox
+            twitter: https://twitter.com/TazamaOrg
           - name: Item 5
             crunchbase: https://www.crunchbase.com/organization/tazama-project
             description: This is the description of item 5
             homepage_url: https://tazama.org
             logo: cncf.svg
-            repo_url: https://github.com/cncf/landscape2
-  - name: Category 2
+            repo_url: https://github.com/KennyPaul/landscape2-sandbox
+  - name: User Organizations
     subcategories:
       - name: Subcategory 2-1
         items:
@@ -54,16 +54,16 @@ categories:
             homepage_url: https://tazama.org
             logo: cncf.svg
             project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            repo_url: https://github.com/KennyPaul/landscape2-sandbox
+            twitter: https://twitter.com/TazamaOrg
           - name: Item 7
             crunchbase: https://www.crunchbase.com/organization/tazama-project
             description: This is the description of item 7
             homepage_url: https://tazama.org
             logo: cncf.svg
             project: sandbox
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            repo_url: https://github.com/KennyPaul/landscape2-sandbox
+            twitter: https://twitter.com/TazamaOrg
           - name: Item 8
             description: This is the description of item 8
             homepage_url: https://tazama.org
@@ -76,6 +76,6 @@ categories:
             homepage_url: https://tazama.org
             logo: cncf.svg
             name: Item 9
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            repo_url: https://github.com/KennyPaul/landscape2-sandbox
+            twitter: https://twitter.com/TazamaOrg
 
