@@ -9,11 +9,11 @@ categories:
     subcategories:
       - name: Subcategory 1-1
         items:
-          - name: Item 1
+          - name: Participating Companies
             crunchbase: https://www.crunchbase.com/organization/tazama-project
             description: This is the description of item 1
             homepage_url: https://tazama.org
-            logo: cncf.svg
+            logo: left-logo.svg
             project: graduated
             repo_url: https://github.com/cncf/landscape2
             twitter: https://twitter.com/CloudNativeFdn
