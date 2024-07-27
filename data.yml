@@ -16,7 +16,7 @@ categories:
             logo: Contributors.svg
             project: graduated
             repo_url: https://github.com/KennyPaul/landscape2-sandbox
-            twitter: azamahttps://twitter.com/TazamaOrgOrg
+            twitter: azamahttps://twitter.com/TazamaOrg
           - name: Item 2
             crunchbase: https://www.crunchbase.com/organization/tazama-project
             description: This is the description of item 2
@@ -24,7 +24,7 @@ categories:
             logo: cncf.svg
             project: sandbox
             repo_url: https://github.com/KennyPaul/landscape2-sandbox
-            twitter: azamahttps://twitter.com/TazamaOrgOrg
+            twitter: azamahttps://twitter.com/TazamaOrg
           - name: Item 3
             description: This is the description of item 3
             homepage_url: https://tazama.org
@@ -37,7 +37,7 @@ categories:
             homepage_url: https://tazama.org
             logo: cncf.svg
             repo_url: https://github.com/KennyPaul/landscape2-sandbox
-            twitter: azamahttps://twitter.com/TazamaOrgOrg
+            twitter: azamahttps://twitter.com/TazamaOrg
           - name: Item 5
             crunchbase: https://www.crunchbase.com/organization/tazama-project
             description: This is the description of item 5
@@ -55,7 +55,7 @@ categories:
             logo: cncf.svg
             project: graduated
             repo_url: https://github.com/KennyPaul/landscape2-sandbox
-            twitter: azamahttps://twitter.com/TazamaOrgOrg
+            twitter: azamahttps://twitter.com/TazamaOrg
           - name: Item 7
             crunchbase: https://www.crunchbase.com/organization/tazama-project
             description: This is the description of item 7
@@ -63,7 +63,7 @@ categories:
             logo: cncf.svg
             project: sandbox
             repo_url: https://github.com/KennyPaul/landscape2-sandbox
-            twitter: azamahttps://twitter.com/TazamaOrgOrg
+            twitter: azamahttps://twitter.com/TazamaOrg
           - name: Item 8
             description: This is the description of item 8
             homepage_url: https://tazama.org
@@ -77,5 +77,5 @@ categories:
             logo: cncf.svg
             name: Item 9
             repo_url: https://github.com/KennyPaul/landscape2-sandbox
-            twitter: azamahttps://twitter.com/TazamaOrgOrg
+            twitter: azamahttps://twitter.com/TazamaOrg
 
