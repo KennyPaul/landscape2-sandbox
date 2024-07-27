@@ -52,7 +52,7 @@ groups:
 
 header:
   links:
-    github: "https://github.com/tazama-lf/tazama-landscape"
-  logo: "https://github.com/KennyPaul/landscape2-sandbox/blob/main/images/left-logo.svg"
+    github: "https://github.com/KennyPaul/landscape2-sandbox"
+  logo: "https://github.com/KennyPaul/landscape2-sandbox/blob/main/logos/tazama-logo.svg"
 
 screenshot_width: 1500
